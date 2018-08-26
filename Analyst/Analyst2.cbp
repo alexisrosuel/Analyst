@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Analyst2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Analyst2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Analyst2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="headers/FenAccueil.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenAffiner.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenBug.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenConsole.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierEditerTout.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierImage.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierMusique.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierTexte.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierVideo.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenFichierVisualisation.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenInfoFichiers.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenInfoFichiersIndividuels.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenInfoRecherche.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenInternet.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenLicence.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenOuvertureFichier.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenRecherche.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenRechercheEntier.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/FenResultat.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headers/Tuto.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenAccueil.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenAffiner.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenBug.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenConsole.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierEditerTout.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierImage.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierMusique.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierTexte.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierVideo.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenFichierVisualisation.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenInfoFichiers.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenInfoFichiersIndividuels.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenInfoRecherche.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenInternet.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenLicence.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenOuvertureFichier.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenRecherche.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenRechercheEntier.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/FenResultat.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/Tuto.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="sources/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

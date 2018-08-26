@@ -1,0 +1,6 @@
+<RCC>
+        <qresource>
+		<file>../icones/Analyst.png</file>
+		<file>../langues/updater_en.qm</file>
+	</qresource>
+</RCC>

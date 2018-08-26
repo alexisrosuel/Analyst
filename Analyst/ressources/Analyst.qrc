@@ -1,0 +1,228 @@
+<RCC>
+        <qresource>
+
+		### Accueil ###
+
+		<file>../icones/Fenetre Accueil/agt_web.png</file>
+		<file>../icones/Fenetre Accueil/find.png</file>
+		<file>../icones/Fenetre Accueil/my_documents.png</file>
+		<file>../icones/Fenetre Accueil/kfm.png</file>
+		<file>../icones/Fenetre Accueil/kcmkwm.png</file>
+		<file>../icones/Fenetre Accueil/kpersonalizer.png</file>
+		<file>../icones/Fenetre Accueil/linguist.png</file>
+		<file>../icones/Fenetre Accueil/readme.png</file>
+		<file>../icones/Fenetre Accueil/bug.png</file>
+		<file>../icones/Fenetre Accueil/demo.png</file>
+
+		### Tuto ###
+
+		<file>../icones/Tuto/Accueil.png</file>
+		<file>../icones/Tuto/Analyst.png</file>
+		<file>../icones/Tuto/Recherche.png</file>
+		<file>../icones/Tuto/Results.png</file>
+		<file>../icones/Tuto/Texte.png</file>
+		<file>../icones/Tuto/Edition.png</file>
+		<file>../icones/Tuto/Video.png</file>
+		<file>../icones/Tuto/Internet.png</file>
+		<file>../icones/Tuto/Database.png</file>
+		<file>../icones/Tuto/Console.png</file>
+		<file>../icones/Tuto/Console-Recherche.png</file>
+		<file>../icones/Tuto/Console-Internet.png</file>
+		<file>../icones/Tuto/Console-Parametres.png</file>
+		<file>../icones/Tuto/Console-Autres.png</file>
+		<file>../icones/Tuto/Analyst-100.png</file>
+
+		### Affiner ###
+
+		<file>../icones/Fenetre Affiner/kghostview.png</file>
+
+		### Edition ###
+
+		<file>../icones/Fenetre Editer Tout/readme.png</file>
+		<file>../icones/Fenetre Editer Tout/agt_back.png</file>
+		<file>../icones/Fenetre Editer Tout/agt_forward.png</file>
+		<file>../icones/Fenetre Editer Tout/db_update.png</file>
+		<file>../icones/Fenetre Editer Tout/kfm.png</file>
+		<file>../icones/Fenetre Editer Tout/save_all.png</file>
+		<file>../icones/Fenetre Editer Tout/tab.png</file>
+		<file>../icones/Fenetre Editer Tout/view_fit_height.png</file>
+		<file>../icones/Fenetre Editer Tout/view_left_right.png</file>
+		<file>../icones/Fenetre Editer Tout/view_tree.png</file>
+		<file>../icones/Fenetre Editer Tout/view_remove.png</file>
+
+		### Info Dossier ###
+
+		<file>../icones/Fenetre Informations Dossier/folder.png</file>
+
+		### Resultats ###
+		
+		<file>../icones/Fenetre Resultats/viewmag+.png</file>
+                <file>../icones/Fenetre Resultats/folder_green.png</file>
+                <file>../icones/Fenetre Resultats/folder_documents.png</file>
+                <file>../icones/Fenetre Resultats/folder_images.png</file>
+                <file>../icones/Fenetre Resultats/folder_video.png</file>
+                <file>../icones/Fenetre Resultats/folder_music.png</file>
+		<file>../icones/Fenetre Resultats/mov.png</file>
+		<file>../icones/Fenetre Resultats/mp3-2.png</file>
+                <file>../icones/Fenetre Resultats/png-2.png</file>
+                <file>../icones/Fenetre Resultats/soffice.png</file>
+
+		### Textes ###
+
+		<file>../icones/Fenetre Texte/kedit.png</file>
+		<file>../icones/Fenetre Texte/editpaste.png</file>
+		<file>../icones/Fenetre Texte/agt_back.png</file>
+		<file>../icones/Fenetre Texte/agt_forward.png</file>
+		<file>../icones/Fenetre Texte/Zoom-out.png</file>
+		<file>../icones/Fenetre Texte/Zoom-in.png</file>
+
+		### Visualisation ###
+
+		<file>../icones/Fenetre Visualisation/info-fichier.png</file>
+		<file>../icones/Fenetre Visualisation/folder_red.png</file>
+                <file>../icones/Fenetre Visualisation/reload.png</file>
+		<file>../icones/Fenetre Visualisation/edit.png</file>
+                <file>../icones/Fenetre Visualisation/edittrash.png</file>
+                <file>../icones/Fenetre Visualisation/folder_documents.png</file>
+                <file>../icones/Fenetre Visualisation/folder_images.png</file>
+                <file>../icones/Fenetre Visualisation/folder_video.png</file>
+		<file>../icones/Fenetre Visualisation/folder_music.png</file>
+                <file>../icones/Fenetre Visualisation/folder_document.png</file>
+		<file>../icones/Fenetre Visualisation/info.png</file>
+		<file>../icones/Fenetre Visualisation/lists.png</file>
+		<file>../icones/Fenetre Visualisation/download.png</file>
+
+		### Internet ###
+
+		<file>../icones/Fenetre Internet/web.png</file>
+
+		### Recherche ###
+
+		<file>../icones/Fenetre Recherche/kghostview.png</file>
+
+		### Recherche Grand ###
+
+		<file>../icones/Fenetre Recherche Entier/viewmag+.png</file>
+                <file>../icones/Fenetre Recherche Entier/folder_green.png</file>
+                <file>../icones/Fenetre Recherche Entier/folder_documents.png</file>
+                <file>../icones/Fenetre Recherche Entier/folder_images.png</file>
+                <file>../icones/Fenetre Recherche Entier/folder_video.png</file>
+                <file>../icones/Fenetre Recherche Entier/folder_music.png</file>
+		<file>../icones/Fenetre Recherche Entier/mov.png</file>
+		<file>../icones/Fenetre Recherche Entier/mp3-2.png</file>
+                <file>../icones/Fenetre Recherche Entier/png-2.png</file>
+                <file>../icones/Fenetre Recherche Entier/soffice.png</file>
+		<file>../icones/Fenetre Recherche Entier/kedit.png</file>
+		<file>../icones/Fenetre Recherche Entier/kghostview.png</file>
+		<file>../icones/Fenetre Recherche Entier/info.png</file>
+
+		### Fichiers ###
+
+		<file>../icones/fichiers/3GP.png</file>
+		<file>../icones/fichiers/7ZIP.png</file>
+                <file>../icones/fichiers/AAC.png</file>
+		<file>../icones/fichiers/ACE.png</file>
+                <file>../icones/fichiers/AIFF.png</file>
+                <file>../icones/fichiers/APE.png</file>
+		<file>../icones/fichiers/ARJ.png</file>
+		<file>../icones/fichiers/ASF.png</file>
+                <file>../icones/fichiers/ASP.png</file>
+                <file>../icones/fichiers/AVI.png</file>
+		<file>../icones/fichiers/BMP.png</file>
+		<file>../icones/fichiers/CAB.png</file>
+		<file>../icones/fichiers/CGI.png</file>
+		<file>../icones/fichiers/CSS.png</file>	
+		<file>../icones/fichiers/DAT.png</file>
+		<file>../icones/fichiers/DIVX.png</file>
+                <file>../icones/fichiers/DOC.png</file>
+		<file>../icones/fichiers/FLAC.png</file>
+                <file>../icones/fichiers/GIF.png</file>
+                <file>../icones/fichiers/GZIP.png</file>
+		<file>../icones/fichiers/HTML.png</file>
+		<file>../icones/fichiers/JPG.png</file>
+                <file>../icones/fichiers/JS.png</file>
+                <file>../icones/fichiers/MOV.png</file>
+		<file>../icones/fichiers/MP3.png</file>
+		<file>../icones/fichiers/MP4.png</file>
+		<file>../icones/fichiers/MPC.png</file>
+		<file>../icones/fichiers/MPEG.png</file>
+		<file>../icones/fichiers/MPEG4.png</file>
+		<file>../icones/fichiers/OGG.png</file>
+                <file>../icones/fichiers/PDF.png</file>
+		<file>../icones/fichiers/PHP.png</file>
+                <file>../icones/fichiers/PL.png</file>
+                <file>../icones/fichiers/PNG.png</file>
+		<file>../icones/fichiers/PSD.png</file>
+		<file>../icones/fichiers/RAR.png</file>
+                <file>../icones/fichiers/RM.png</file>
+                <file>../icones/fichiers/RTF.png</file>
+		<file>../icones/fichiers/SVCD.png</file>
+		<file>../icones/fichiers/SWF.png</file>
+		<file>../icones/fichiers/TAR.png</file>
+		<file>../icones/fichiers/TGA.png</file>	
+		<file>../icones/fichiers/TIFF.png</file>
+		<file>../icones/fichiers/TXT.png</file>
+                <file>../icones/fichiers/VCD.png</file>
+		<file>../icones/fichiers/VOB.png</file>
+                <file>../icones/fichiers/VQF.png</file>
+                <file>../icones/fichiers/WAV.png</file>
+		<file>../icones/fichiers/WMA.png</file>
+		<file>../icones/fichiers/WMV.png</file>
+                <file>../icones/fichiers/WPD.png</file>
+                <file>../icones/fichiers/XHTML.png</file>
+		<file>../icones/fichiers/XML.png</file>
+		<file>../icones/fichiers/XVID.png</file>
+		<file>../icones/fichiers/ZIP.png</file>
+		<file>../icones/fichiers/AXX.png</file>
+                <file>../icones/fichiers/C.png</file>
+		<file>../icones/fichiers/CPP.png</file>
+		<file>../icones/fichiers/DEB.png</file>
+		<file>../icones/fichiers/DISQUE.png</file>
+		<file>../icones/fichiers/DOSSIER.png</file>	
+		<file>../icones/fichiers/F.png</file>
+		<file>../icones/fichiers/H.png</file>
+                <file>../icones/fichiers/HPP.png</file>
+		<file>../icones/fichiers/IMG.png</file>
+                <file>../icones/fichiers/ISO.png</file>
+                <file>../icones/fichiers/J.png</file>
+		<file>../icones/fichiers/JAR.png</file>
+		<file>../icones/fichiers/JAVA.png</file>
+                <file>../icones/fichiers/L.png</file>
+                <file>../icones/fichiers/LOG.png</file>
+		<file>../icones/fichiers/MIDI.png</file>
+		<file>../icones/fichiers/NFO.png</file>
+		<file>../icones/fichiers/O.png</file>
+		<file>../icones/fichiers/P.png</file>
+                <file>../icones/fichiers/PS.png</file>
+		<file>../icones/fichiers/PY.png</file>
+		<file>../icones/fichiers/RC.png</file>
+		<file>../icones/fichiers/S.png</file>
+		<file>../icones/fichiers/SHELL.png</file>	
+		<file>../icones/fichiers/SOUND.png</file>
+		<file>../icones/fichiers/TEX.png</file>
+                <file>../icones/fichiers/TEXTE.png</file>
+		<file>../icones/fichiers/TMP.png</file>
+                <file>../icones/fichiers/TTF.png</file>
+                <file>../icones/fichiers/VIDEO.png</file>
+		<file>../icones/fichiers/WEB.png</file>
+		<file>../icones/fichiers/Y.png</file>
+		<file>../icones/fichiers/file.png</file>  
+		<file>../icones/fichiers/fichier.png</file>  
+		<file>../icones/fichiers/folder_grey.png</file>
+
+		### Icones ###
+
+		<file>../icones/Icones/Analyst.png</file>
+		<file>../icones/Icones/Analyst-64.png</file>
+		<file>../icones/Icones/Analyst-0.png</file>
+		<file>../icones/Icones/Analyst-25.png</file>
+		<file>../icones/Icones/Analyst-50.png</file>
+		<file>../icones/Icones/Analyst-75.png</file>
+		<file>../icones/Icones/Analyst-100.png</file>
+
+		### Langues ###
+
+		<file>../langues/analyst_en.qm</file>
+
+	</qresource>
+</RCC>

@@ -1,0 +1,27 @@
+Research : 
+
+	- "search" + "-sensitive" or/and "-entire" + "-texts" or/and "-pictures" or/and "-musics" or/and "-movies" + "-results" or "-open" or "openall" + what you want to search.
+
+Internet : 
+
+	- "internet" + "-texts" or/and "-alltexts" or/and "-pictures" or/and "-allpictures" + "-nodisplay" + what you want to search.
+
+Database : 
+
+	- "database" + "-texts" or "-pictures" or "-musics" or "-movies"
+
+Informations : 
+
+	- "general"
+	- "info" + "-texts" or/and "-pictures" or/and "-musics" or/and "-movies" + what you want to search + "*".
+
+Open : 
+
+	- "open" + "-texts" or/and "-pictures" or/and "-musics" or/and "-movies" + what you want to search + "*".
+
+Others : 
+
+	- "about"
+	- "quit"
+
+	
